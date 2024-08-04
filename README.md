@@ -1,7 +1,7 @@
 Hi there! 👋
 I'm a Computer Science graduate working as Machine Learning Engineer. My goal is to build practical, reliable and sustainable  solutions.
 
-**About Me:**
+**About Me:** <br>
 🎓 Education: Computer Science Graduate
 🤖 Interests: AI/ML, Deep Learning, Computer Vision
 🛠️ Skills: Supervided, upsupervised, reinforcement learning, train Nueral Network agents, Pytorch, Keras, Tensorflow, and OpenCV.
