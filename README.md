@@ -11,5 +11,5 @@ Neural Networks: Developed neural network models for tasks like image classifica
 Deep Learning: Implemented a solution using a deep learning library for the detection and size estimation of cracks on the surface. <br>
 
 <br>
-__Get in Touch__ <br>
-__LinkedIn:__ www.linkedin.com/in/ghulammujtaba110
+Get in Touch: <br>
+LinkedIn: www.linkedin.com/in/ghulammujtaba110
